@@ -6,38 +6,38 @@
 
 
 
-# 👨‍💻 ¡Hola! Soy estudiante de informática
+# 👨‍💻 Hi! I'm an IT Student
 
-Soy estudiante de **quinto de secundaria del técnico en Diseño y Desarrollo de Aplicaciones Informáticas** en el Politécnico Manuel Acevedo Serrano.
+I'm a **fifth-year high school student** specializing in **Application Design and Development** at Politécnico Manuel Acevedo Serrano.
 
-Me apasiona la tecnología, la programación y el diseño de soluciones informáticas. Tengo conocimientos en **HTML, CSS, JavaScript, Python (con Tkinter) y SQL Server**. Me encanta aprender, experimentar y crear cosas nuevas que sean productivas, innovadoras y creativas.
+I'm passionate about technology, programming, and designing software solutions. I have knowledge of **HTML, CSS, JavaScript, Python (with Tkinter), and SQL Server**. I love learning, experimenting, and creating new things that are productive, innovative, and creative.
 
-### 💻 Tecnologías y áreas de formación
+### 💻 Technologies & Areas of Expertise
 
-- 🌐 **Desarrollo web:** HTML, CSS y JavaScript.
-- 🐍 **Programación:** Python y creación de interfaces gráficas con Tkinter.
-- 🗄️ **Bases de datos:** SQL Server, administración y diseño de bases de datos relacionales.
-- 🤖 **Robótica:** Arduino, montaje y programación de robots de baile con piezas LEGO.
-- 🖥️ **Análisis y Diseño de Sistemas Informáticos.**
-- 🌐 **Diseño de Portales Web y Recursos Multimedia.**
-- ⚙️ **Diseño y Desarrollo de Sistemas de Información.**
-- 📊 **Diseño y Desarrollo de Reportes.**
+- 🌐 **Web Development:** HTML, CSS, and JavaScript.
+- 🐍 **Programming:** Python and graphical user interface development with Tkinter.
+- 🗄️ **Databases:** SQL Server, database administration, and relational database design.
+- 🤖 **Robotics:** Arduino, assembly, and programming of LEGO-based dancing robots.
+- 🖥️ **Computer Systems Analysis and Design.**
+- 🌐 **Web Portal Design and Multimedia Resources.**
+- ⚙️ **Information Systems Design and Development.**
+- 📊 **Report Design and Development.**
 
-### 🌱 Actualmente...
+### 🌱 Currently...
 
-Me encuentro cursando mi quinto año de bachillerato técnico, donde continúo fortaleciendo mis conocimientos en programación, robótica, bases de datos y desarrollo de sistemas informáticos. Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
+I'm currently in my fifth year of technical high school, continuing to strengthen my skills in programming, robotics, databases, and information systems development. I'm always looking to learn new technologies and improve my abilities.
 
-### 👯 Colaboración
+### 👯 Collaboration
 
-Siempre estoy dispuesto a colaborar en proyectos técnicos, compartir conocimientos y trabajar en equipo para desarrollar ideas y soluciones creativas.
+I'm always open to collaborating on technical projects, sharing knowledge, and working as part of a team to develop creative ideas and innovative solutions.
 
-### ✔ ¡Pregúntame!
+### ✔ Ask Me About
 
-Puedes preguntarme sobre programación, desarrollo web, bases de datos, diseño de sistemas y otros temas relacionados con mi área de formación. Estaré encantado de ayudarte siempre que esté dentro de mis conocimientos. 😉
+Feel free to ask me about programming, web development, databases, systems design, and other topics related to my field of study. I'll be happy to help whenever it's within my area of knowledge. 😉
 
-### ⚡ Un poco más sobre mí
+### ⚡ Fun Facts About Me
 
-Fuera del ámbito tecnológico, me encanta todo el universo de **Harry Potter** (Hogwarts, Quidditch y su magia). 🪄 También disfruto de una buena pizza 🍕 o un delicioso plato de espaguetis. 🍝
+Outside the world of technology, I'm a huge fan of the **Harry Potter universe** (Hogwarts, Quidditch, and all its magic). 🪄 I also enjoy a good pizza 🍕 or a delicious plate of spaghetti. 🍝
 
 ## My Skills Include
 
