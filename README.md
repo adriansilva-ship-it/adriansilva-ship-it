@@ -6,7 +6,7 @@
 
 
 
-I am an Information Technology and Computing student at the Manuel Acevedo Serrano Polytechnic. I excel in HTML, CSS, JavaScript, Python (with Tkinter), and SQL Server. I love learning and building new things that are productive, innovative, and creative.
+I am an Diseño y Desarrollo de aplicaciones informatica student at the Manuel Acevedo Serrano Polytechnic. I excel in HTML, CSS, JavaScript, Python (with Tkinter), and SQL Server. I love learning and building new things that are productive, innovative, and creative.
 
 I am interested in web development, relational database design, and user interface creation.
 
