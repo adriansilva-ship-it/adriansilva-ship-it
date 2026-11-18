@@ -6,22 +6,38 @@
 
 
 
-I am an del tecnico Diseño y Desarrollo de aplicaciones informatica student at the Manuel Acevedo Serrano Polytechnic. I excel in HTML, CSS, JavaScript, Python (with Tkinter), and SQL Server. I love learning and building new things that are productive, innovative, and creative.
+# 👨‍💻 ¡Hola! Soy estudiante de informática
 
-I am interested in web development, relational database design, and user interface creation.
+Soy estudiante de **quinto de secundaria del técnico en Diseño y Desarrollo de Aplicaciones Informáticas** en el Politécnico Manuel Acevedo Serrano.
 
-🌱 Currently...
+Me apasiona la tecnología, la programación y el diseño de soluciones informáticas. Tengo conocimientos en **HTML, CSS, JavaScript, Python (con Tkinter) y SQL Server**. Me encanta aprender, experimentar y crear cosas nuevas que sean productivas, innovadoras y creativas.
 
-I am not working on any specific development projects right now; I am taking this time to rest and prepare for the start of my fifth year of high school.
+### 💻 Tecnologías y áreas de formación
 
-👯 Always open to collaborating on technical projects.
+- 🌐 **Desarrollo web:** HTML, CSS y JavaScript.
+- 🐍 **Programación:** Python y creación de interfaces gráficas con Tkinter.
+- 🗄️ **Bases de datos:** SQL Server, administración y diseño de bases de datos relacionales.
+- 🤖 **Robótica:** Arduino, montaje y programación de robots de baile con piezas LEGO.
+- 🖥️ **Análisis y Diseño de Sistemas Informáticos.**
+- 🌐 **Diseño de Portales Web y Recursos Multimedia.**
+- ⚙️ **Diseño y Desarrollo de Sistemas de Información.**
+- 📊 **Diseño y Desarrollo de Reportes.**
 
-✔ Ask me anything about coding—I’d be happy to help, provided it's within my area of ​​expertise! 😉
+### 🌱 Actualmente...
 
+Me encuentro cursando mi quinto año de bachillerato técnico, donde continúo fortaleciendo mis conocimientos en programación, robótica, bases de datos y desarrollo de sistemas informáticos. Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
 
-Outside of technology, ⚡ I love the entire Harry Potter universe (Hogwarts, Quidditch) and 🍕 enjoy a good pizza or a plate of spaghetti.
+### 👯 Colaboración
 
-📫 Developer: Adrián Silva
+Siempre estoy dispuesto a colaborar en proyectos técnicos, compartir conocimientos y trabajar en equipo para desarrollar ideas y soluciones creativas.
+
+### ✔ ¡Pregúntame!
+
+Puedes preguntarme sobre programación, desarrollo web, bases de datos, diseño de sistemas y otros temas relacionados con mi área de formación. Estaré encantado de ayudarte siempre que esté dentro de mis conocimientos. 😉
+
+### ⚡ Un poco más sobre mí
+
+Fuera del ámbito tecnológico, me encanta todo el universo de **Harry Potter** (Hogwarts, Quidditch y su magia). 🪄 También disfruto de una buena pizza 🍕 o un delicioso plato de espaguetis. 🍝
 
 ## My Skills Include
 
